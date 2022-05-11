@@ -1,1 +1,8 @@
-Holadfopfsdf
+<<<<<<< HEAD
+Holadfopfsdfuygui
+=======
+
+
+
+asdsfadsfasdfasdfasdfasdfsdfasdfsdafadsf
+>>>>>>> 210f50fec2e05b00591d3f6890670ff0fdfa419d
